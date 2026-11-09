@@ -31,5 +31,38 @@
     "csst": "3/4-Inch CSST",
     "days": 12.3,
     "date": "2026-11-09"
+  },
+  {
+    "setup_name": "250-Gallon Horizontal Propane Tank (200 Gal Usable)",
+    "slug": "250-gallon-horizontal-propane-tank-200-gal-usable-vaporization-pipe-calculator",
+    "title": "250-Gallon Horizontal Propane Tank (200 Gal Usable) BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (215,000 BTU/hr @ 0°F), fuel burn (1.64 gal/hr), 200.0-gal runtime (14.5 days), and NFPA 54 3/4-Inch CSST / 3/4\" Iron sizing for 250-Gallon Horizontal Propane Tank (200 Gal Usable).",
+    "btu": 150000,
+    "gal_hr": 1.64,
+    "csst": "3/4-Inch CSST",
+    "days": 14.5,
+    "date": "2026-11-09"
+  },
+  {
+    "setup_name": "500-Gallon Whole-House Propane Tank (400 Gal Usable)",
+    "slug": "500-gallon-whole-house-propane-tank-400-gal-usable-vaporization-pipe-calculator",
+    "title": "500-Gallon Whole-House Propane Tank (400 Gal Usable) BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (380,000 BTU/hr @ 0°F), fuel burn (2.73 gal/hr), 400.0-gal runtime (17.4 days), and NFPA 54 1-Inch CSST / 3/4\" High-PSI sizing for 500-Gallon Whole-House Propane Tank (400 Gal Usable).",
+    "btu": 250000,
+    "gal_hr": 2.73,
+    "csst": "1-Inch CSST",
+    "days": 17.4,
+    "date": "2026-11-09"
+  },
+  {
+    "setup_name": "1,000-Gallon Estate & Pool Heater Propane Tank (800 Gal)",
+    "slug": "1000-gallon-estate-pool-heater-propane-tank-800-gal-vaporization-pipe-calculator",
+    "title": "1,000-Gallon Estate & Pool Heater Propane Tank (800 Gal) BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (720,000 BTU/hr @ 0°F), fuel burn (4.37 gal/hr), 800.0-gal runtime (21.8 days), and NFPA 54 1-Inch CSST + 2-Stage Reg sizing for 1,000-Gallon Estate & Pool Heater Propane Tank (800 Gal).",
+    "btu": 400000,
+    "gal_hr": 4.37,
+    "csst": "1-Inch CSST",
+    "days": 21.8,
+    "date": "2026-11-09"
   }
 ]
