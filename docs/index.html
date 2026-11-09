@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PropaneBTUIndex — Propane Tank Winter Vaporization, CSST Gas Line & Runtime Calculator (2026)</title>
+  <meta name="description" content="Calculate exact propane tank winter BTU vaporization rate at 0F, gallons per hour burn rate, 100-lb to 500-gallon tank runtime, and NFPA 54 CSST flexible gas pipe sizing for Mr. Heater Big Maxx, Modine Hot Dawg, and pool heaters.">
+  <link rel="canonical" href="https://hanifsalman11.github.io/propane-tank-index/">
+  <link rel="alternate" type="application/rss+xml" title="PropaneBTUIndex RSS Feed" href="https://hanifsalman11.github.io/propane-tank-index/rss.xml">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen flex flex-col">
+  <header class="border-b border-slate-800 bg-slate-900/80 sticky top-0 z-30 backdrop-blur">
+    <div class="max-w-5xl mx-auto px-4 py-3.5 flex items-center justify-between">
+      <div class="text-lg font-black text-white flex items-center gap-2">
+        <span class="bg-amber-500 text-slate-950 px-2 py-0.5 rounded font-black">PROPANE</span>BTUIndex
+      </div>
+      <a href="https://www.amazon.com/s?k=Propane%2BTwo%2BStage%2BRegulator%2BCSST%2BGas%2BLine%2BKit%2BMr%2BHeater%2BBig%2BMaxx&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="text-xs sm:text-sm bg-amber-500 hover:bg-amber-400 text-slate-950 font-extrabold px-3.5 py-2 rounded-lg transition">
+        Shop Propane Regulators, CSST Lines & Heaters on Amazon →
+      </a>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 py-12 flex-1 w-full">
+    <div class="text-center max-w-2xl mx-auto mb-10">
+      <h1 class="text-3xl sm:text-5xl font-black text-white tracking-tight">Propane Tank Winter Vaporization, CSST Pipe & Runtime Database</h1>
+      <p class="text-slate-400 mt-3 text-base sm:text-lg">Select your propane tank size, shop heater, or BTU load below to calculate freezing-weather vaporization limits (at 20% tank fill), gallons/hour burned, and NFPA 54 CSST gas line diameter.</p>
+      <div class="mt-6">
+        <input id="filterInput" type="text" placeholder="Search tank size or heater (e.g. 100 lb Tank, 120 Gallon, 500 Gallon, Mr. Heater Big Maxx 80k, Modine Hot Dawg, CSST...)" class="w-full bg-slate-900 border border-slate-700 rounded-xl px-4 py-3.5 text-sm text-white focus:outline-none focus:border-amber-500">
+      </div>
+    </div>
+
+    <div id="lpGrid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        <a href="120-gallon-vertical-asme-propane-tank-96-gal-usable-vaporization-pipe-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-amber-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-amber-500 text-slate-950 px-2.5 py-0.5 rounded">85K BTU (0.93 Gal/h)</span>
+            <span class="text-xs text-slate-400">3/4-Inch CSST | ~12.3 Days</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-amber-400 transition">120-Gallon Vertical ASME Propane Tank (96 Gal Usable)</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.93 gal/hr), 96.0-gal runtime (12.3 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for 120-Gallon Vertical ASME Propane Tank (96 Gal Usable).</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-amber-400">Calculate Vaporization, CSST & Runtime →</span>
+        </a>
+        <a href="two-manifolded-100-lb-propane-tanks-472-gal-setup-vaporization-pipe-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-amber-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-amber-500 text-slate-950 px-2.5 py-0.5 rounded">80K BTU (0.87 Gal/h)</span>
+            <span class="text-xs text-slate-400">3/4-Inch CSST | ~6.5 Days</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-amber-400 transition">Two Manifolded 100-Lb Propane Tanks (47.2 Gal) Setup</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact winter propane vaporization (78,000 BTU/hr @ 0°F), fuel burn (0.87 gal/hr), 47.2-gal runtime (6.5 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for Two Manifolded 100-Lb Propane Tanks (47.2 Gal) Setup.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-amber-400">Calculate Vaporization, CSST & Runtime →</span>
+        </a>
+        <a href="100-lb-propane-tank-236-gal-winter-btu-vaporization-vaporization-pipe-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-amber-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-amber-500 text-slate-950 px-2.5 py-0.5 rounded">50K BTU (0.55 Gal/h)</span>
+            <span class="text-xs text-slate-400">1/2-Inch CSST | ~5.1 Days</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-amber-400 transition">100-Lb Propane Tank (23.6 Gal) Winter BTU Vaporization</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact winter propane vaporization (39,000 BTU/hr @ 0°F), fuel burn (0.55 gal/hr), 23.6-gal runtime (5.1 days), and NFPA 54 1/2-Inch CSST / 5/8" Copper sizing for 100-Lb Propane Tank (23.6 Gal) Winter BTU Vaporization.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-amber-400">Calculate Vaporization, CSST & Runtime →</span>
+        </a></div>
+  </main>
+
+  <footer class="border-t border-slate-800 py-8 text-center text-xs text-slate-500">
+    <p>© 2026 PropaneBTUIndex. As an Amazon Associate, we earn from qualifying purchases.</p>
+  </footer>
+
+  <script>
+    const filterInput = document.getElementById('filterInput');
+    const cards = Array.from(document.getElementById('lpGrid').children);
+    filterInput.addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase();
+      cards.forEach(c => {
+        c.style.display = c.textContent.toLowerCase().includes(q) ? 'block' : 'none';
+      });
+    });
+  </script>
+</body>
+</html>

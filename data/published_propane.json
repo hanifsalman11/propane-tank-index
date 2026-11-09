@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "setup_name": "100-Lb Propane Tank (23.6 Gal) Winter BTU Vaporization",
+    "slug": "100-lb-propane-tank-236-gal-winter-btu-vaporization-vaporization-pipe-calculator",
+    "title": "100-Lb Propane Tank (23.6 Gal) Winter BTU Vaporization BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (39,000 BTU/hr @ 0°F), fuel burn (0.55 gal/hr), 23.6-gal runtime (5.1 days), and NFPA 54 1/2-Inch CSST / 5/8\" Copper sizing for 100-Lb Propane Tank (23.6 Gal) Winter BTU Vaporization.",
+    "btu": 50000,
+    "gal_hr": 0.55,
+    "csst": "1/2-Inch CSST",
+    "days": 5.1,
+    "date": "2026-11-09"
+  },
+  {
+    "setup_name": "Two Manifolded 100-Lb Propane Tanks (47.2 Gal) Setup",
+    "slug": "two-manifolded-100-lb-propane-tanks-472-gal-setup-vaporization-pipe-calculator",
+    "title": "Two Manifolded 100-Lb Propane Tanks (47.2 Gal) Setup BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (78,000 BTU/hr @ 0°F), fuel burn (0.87 gal/hr), 47.2-gal runtime (6.5 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for Two Manifolded 100-Lb Propane Tanks (47.2 Gal) Setup.",
+    "btu": 80000,
+    "gal_hr": 0.87,
+    "csst": "3/4-Inch CSST",
+    "days": 6.5,
+    "date": "2026-11-09"
+  },
+  {
+    "setup_name": "120-Gallon Vertical ASME Propane Tank (96 Gal Usable)",
+    "slug": "120-gallon-vertical-asme-propane-tank-96-gal-usable-vaporization-pipe-calculator",
+    "title": "120-Gallon Vertical ASME Propane Tank (96 Gal Usable) BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.93 gal/hr), 96.0-gal runtime (12.3 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for 120-Gallon Vertical ASME Propane Tank (96 Gal Usable).",
+    "btu": 85000,
+    "gal_hr": 0.93,
+    "csst": "3/4-Inch CSST",
+    "days": 12.3,
+    "date": "2026-11-09"
+  }
+]
