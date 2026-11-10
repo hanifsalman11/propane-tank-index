@@ -97,5 +97,38 @@
     "csst": "3/4-Inch CSST",
     "days": 13.1,
     "date": "2026-11-10"
+  },
+  {
+    "setup_name": "Modine Hot Dawg HD45 & HD60 (45k / 60k BTU) LP Heater",
+    "slug": "modine-hot-dawg-hd45-hd60-45k-60k-btu-lp-heater-vaporization-pipe-calculator",
+    "title": "Modine Hot Dawg HD45 & HD60 (45k / 60k BTU) LP Heater BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.66 gal/hr), 96.0-gal runtime (17.3 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for Modine Hot Dawg HD45 & HD60 (45k / 60k BTU) LP Heater.",
+    "btu": 60000,
+    "gal_hr": 0.66,
+    "csst": "3/4-Inch CSST",
+    "days": 17.3,
+    "date": "2026-11-10"
+  },
+  {
+    "setup_name": "Modine Hot Dawg HD75 & HD100 (75k / 100k BTU) Shop Heater",
+    "slug": "modine-hot-dawg-hd75-hd100-75k-100k-btu-shop-heater-vaporization-pipe-calculator",
+    "title": "Modine Hot Dawg HD75 & HD100 (75k / 100k BTU) Shop Heater BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (215,000 BTU/hr @ 0°F), fuel burn (1.09 gal/hr), 200.0-gal runtime (21.8 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for Modine Hot Dawg HD75 & HD100 (75k / 100k BTU) Shop Heater.",
+    "btu": 100000,
+    "gal_hr": 1.09,
+    "csst": "3/4-Inch CSST",
+    "days": 21.8,
+    "date": "2026-11-10"
+  },
+  {
+    "setup_name": "Reznor UDXC-60 & UDXC-100 Propane Unit Heater Sizing",
+    "slug": "reznor-udxc-60-udxc-100-propane-unit-heater-sizing-vaporization-pipe-calculator",
+    "title": "Reznor UDXC-60 & UDXC-100 Propane Unit Heater Sizing BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (215,000 BTU/hr @ 0°F), fuel burn (1.09 gal/hr), 200.0-gal runtime (21.8 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for Reznor UDXC-60 & UDXC-100 Propane Unit Heater Sizing.",
+    "btu": 100000,
+    "gal_hr": 1.09,
+    "csst": "3/4-Inch CSST",
+    "days": 21.8,
+    "date": "2026-11-10"
   }
 ]
