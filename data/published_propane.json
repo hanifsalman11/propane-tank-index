@@ -130,5 +130,38 @@
     "csst": "3/4-Inch CSST",
     "days": 21.8,
     "date": "2026-11-10"
+  },
+  {
+    "setup_name": "Dyna-Glo 50,000 & 80,000 BTU LP Forced-Air Shop Heater",
+    "slug": "dyna-glo-50000-80000-btu-lp-forced-air-shop-heater-vaporization-pipe-calculator",
+    "title": "Dyna-Glo 50,000 & 80,000 BTU LP Forced-Air Shop Heater BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (78,000 BTU/hr @ 0°F), fuel burn (0.87 gal/hr), 47.2-gal runtime (6.5 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for Dyna-Glo 50,000 & 80,000 BTU LP Forced-Air Shop Heater.",
+    "btu": 80000,
+    "gal_hr": 0.87,
+    "csst": "3/4-Inch CSST",
+    "days": 6.5,
+    "date": "2026-11-10"
+  },
+  {
+    "setup_name": "Rinnai EX22C & EX38C Direct-Vent Propane Wall Furnace",
+    "slug": "rinnai-ex22c-ex38c-direct-vent-propane-wall-furnace-vaporization-pipe-calculator",
+    "title": "Rinnai EX22C & EX38C Direct-Vent Propane Wall Furnace BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.42 gal/hr), 96.0-gal runtime (27.2 days), and NFPA 54 1/2-Inch CSST Gas Line sizing for Rinnai EX22C & EX38C Direct-Vent Propane Wall Furnace.",
+    "btu": 38400,
+    "gal_hr": 0.42,
+    "csst": "1/2-Inch CSST",
+    "days": 27.2,
+    "date": "2026-11-10"
+  },
+  {
+    "setup_name": "Pentair MasterTemp 400 (400,000 BTU) Propane Pool Heater",
+    "slug": "pentair-mastertemp-400-400000-btu-propane-pool-heater-vaporization-pipe-calculator",
+    "title": "Pentair MasterTemp 400 (400,000 BTU) Propane Pool Heater BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (380,000 BTU/hr @ 0°F), fuel burn (4.37 gal/hr), 400.0-gal runtime (10.9 days), and NFPA 54 1-Inch CSST / 2-Stage Reg sizing for Pentair MasterTemp 400 (400,000 BTU) Propane Pool Heater.",
+    "btu": 400000,
+    "gal_hr": 4.37,
+    "csst": "1-Inch CSST",
+    "days": 10.9,
+    "date": "2026-11-10"
   }
 ]
