@@ -196,5 +196,38 @@
     "csst": "3/4-Inch CSST",
     "days": 8.7,
     "date": "2026-11-11"
+  },
+  {
+    "setup_name": "Cavagna 52-A-490 Two-Stage & Auto-Changeover LP Regulator",
+    "slug": "cavagna-52-a-490-two-stage-auto-changeover-lp-regulator-vaporization-pipe-calculator",
+    "title": "Cavagna 52-A-490 Two-Stage & Auto-Changeover LP Regulator BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (1.75 gal/hr), 96.0-gal runtime (6.5 days), and NFPA 54 1/2-Inch or 3/4\" CSST sizing for Cavagna 52-A-490 Two-Stage & Auto-Changeover LP Regulator.",
+    "btu": 160000,
+    "gal_hr": 1.75,
+    "csst": "1/2-Inch CSST",
+    "days": 6.5,
+    "date": "2026-11-11"
+  },
+  {
+    "setup_name": "Flame King 100-Lb Steel Propane Tank w/ POL/OPD Valve",
+    "slug": "flame-king-100-lb-steel-propane-tank-w-polopd-valve-vaporization-pipe-calculator",
+    "title": "Flame King 100-Lb Steel Propane Tank w/ POL/OPD Valve BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (39,000 BTU/hr @ 0°F), fuel burn (0.55 gal/hr), 23.6-gal runtime (5.1 days), and NFPA 54 1/2-Inch CSST / Copper sizing for Flame King 100-Lb Steel Propane Tank w/ POL/OPD Valve.",
+    "btu": 50000,
+    "gal_hr": 0.55,
+    "csst": "1/2-Inch CSST",
+    "days": 5.1,
+    "date": "2026-11-11"
+  },
+  {
+    "setup_name": "Mopeka Pro Check Ultrasonic Bluetooth Propane Tank Sensor",
+    "slug": "mopeka-pro-check-ultrasonic-bluetooth-propane-tank-sensor-vaporization-pipe-calculator",
+    "title": "Mopeka Pro Check Ultrasonic Bluetooth Propane Tank Sensor BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.87 gal/hr), 96.0-gal runtime (13.1 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for Mopeka Pro Check Ultrasonic Bluetooth Propane Tank Sensor.",
+    "btu": 80000,
+    "gal_hr": 0.87,
+    "csst": "3/4-Inch CSST",
+    "days": 13.1,
+    "date": "2026-11-11"
   }
 ]
