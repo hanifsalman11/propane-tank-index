@@ -229,5 +229,38 @@
     "csst": "3/4-Inch CSST",
     "days": 13.1,
     "date": "2026-11-11"
+  },
+  {
+    "setup_name": "Powerblanket 100-Lb & 420-Lb Propane Tank Heater Blanket",
+    "slug": "powerblanket-100-lb-420-lb-propane-tank-heater-blanket-vaporization-pipe-calculator",
+    "title": "Powerblanket 100-Lb & 420-Lb Propane Tank Heater Blanket BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (115,000 BTU/hr @ 0°F), fuel burn (0.93 gal/hr), 23.6-gal runtime (3.0 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for Powerblanket 100-Lb & 420-Lb Propane Tank Heater Blanket.",
+    "btu": 85000,
+    "gal_hr": 0.93,
+    "csst": "3/4-Inch CSST",
+    "days": 3.0,
+    "date": "2026-11-12"
+  },
+  {
+    "setup_name": "HomeFlex / Pro-Flex 3/4-Inch CSST Flexible Gas Line Sizing",
+    "slug": "homeflex-pro-flex-34-inch-csst-flexible-gas-line-sizing-vaporization-pipe-calculator",
+    "title": "HomeFlex / Pro-Flex 3/4-Inch CSST Flexible Gas Line Sizing BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (215,000 BTU/hr @ 0°F), fuel burn (1.2 gal/hr), 200.0-gal runtime (19.8 days), and NFPA 54 3/4-Inch CSST (11\" WC) sizing for HomeFlex / Pro-Flex 3/4-Inch CSST Flexible Gas Line Sizing.",
+    "btu": 110000,
+    "gal_hr": 1.2,
+    "csst": "3/4-Inch CSST",
+    "days": 19.8,
+    "date": "2026-11-12"
+  },
+  {
+    "setup_name": "HomeFlex / Pro-Flex 1/2-Inch CSST Flexible Gas Line Sizing",
+    "slug": "homeflex-pro-flex-12-inch-csst-flexible-gas-line-sizing-vaporization-pipe-calculator",
+    "title": "HomeFlex / Pro-Flex 1/2-Inch CSST Flexible Gas Line Sizing BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.52 gal/hr), 96.0-gal runtime (22.0 days), and NFPA 54 1/2-Inch CSST (11\" WC) sizing for HomeFlex / Pro-Flex 1/2-Inch CSST Flexible Gas Line Sizing.",
+    "btu": 48000,
+    "gal_hr": 0.52,
+    "csst": "1/2-Inch CSST",
+    "days": 22.0,
+    "date": "2026-11-12"
   }
 ]
