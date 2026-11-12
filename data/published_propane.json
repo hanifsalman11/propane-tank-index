@@ -262,5 +262,38 @@
     "csst": "1/2-Inch CSST",
     "days": 22.0,
     "date": "2026-11-12"
+  },
+  {
+    "setup_name": "300,000 BTU Outdoor Propane Fire Pit Paver Burner Sizing",
+    "slug": "300000-btu-outdoor-propane-fire-pit-paver-burner-sizing-vaporization-pipe-calculator",
+    "title": "300,000 BTU Outdoor Propane Fire Pit Paver Burner Sizing BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (215,000 BTU/hr @ 0°F), fuel burn (3.28 gal/hr), 200.0-gal runtime (7.3 days), and NFPA 54 3/4-Inch or 1\" CSST sizing for 300,000 BTU Outdoor Propane Fire Pit Paver Burner Sizing.",
+    "btu": 300000,
+    "gal_hr": 3.28,
+    "csst": "3/4-Inch CSST",
+    "days": 7.3,
+    "date": "2026-11-12"
+  },
+  {
+    "setup_name": "150,000 BTU Outdoor Patio Fire Table & Grill LP Line",
+    "slug": "150000-btu-outdoor-patio-fire-table-grill-lp-line-vaporization-pipe-calculator",
+    "title": "150,000 BTU Outdoor Patio Fire Table & Grill LP Line BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (1.64 gal/hr), 96.0-gal runtime (7.0 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for 150,000 BTU Outdoor Patio Fire Table & Grill LP Line.",
+    "btu": 150000,
+    "gal_hr": 1.64,
+    "csst": "3/4-Inch CSST",
+    "days": 7.0,
+    "date": "2026-11-12"
+  },
+  {
+    "setup_name": "60,000 BTU Ventless Propane Gas Log Fireplace Sizing",
+    "slug": "60000-btu-ventless-propane-gas-log-fireplace-sizing-vaporization-pipe-calculator",
+    "title": "60,000 BTU Ventless Propane Gas Log Fireplace Sizing BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.66 gal/hr), 96.0-gal runtime (17.3 days), and NFPA 54 1/2-Inch or 3/4\" CSST sizing for 60,000 BTU Ventless Propane Gas Log Fireplace Sizing.",
+    "btu": 60000,
+    "gal_hr": 0.66,
+    "csst": "1/2-Inch CSST",
+    "days": 17.3,
+    "date": "2026-11-12"
   }
 ]
