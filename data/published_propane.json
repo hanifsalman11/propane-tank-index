@@ -295,5 +295,38 @@
     "csst": "1/2-Inch CSST",
     "days": 17.3,
     "date": "2026-11-12"
+  },
+  {
+    "setup_name": "80,000 BTU Overhead Infrared Propane Tube Heater (Garage)",
+    "slug": "80000-btu-overhead-infrared-propane-tube-heater-garage-vaporization-pipe-calculator",
+    "title": "80,000 BTU Overhead Infrared Propane Tube Heater (Garage) BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.87 gal/hr), 96.0-gal runtime (13.1 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for 80,000 BTU Overhead Infrared Propane Tube Heater (Garage).",
+    "btu": 80000,
+    "gal_hr": 0.87,
+    "csst": "3/4-Inch CSST",
+    "days": 13.1,
+    "date": "2026-11-13"
+  },
+  {
+    "setup_name": "120,000 BTU Whole-House Propane Furnace Tank & Pipe Sizing",
+    "slug": "120000-btu-whole-house-propane-furnace-tank-pipe-sizing-vaporization-pipe-calculator",
+    "title": "120,000 BTU Whole-House Propane Furnace Tank & Pipe Sizing BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (215,000 BTU/hr @ 0°F), fuel burn (1.31 gal/hr), 200.0-gal runtime (18.2 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for 120,000 BTU Whole-House Propane Furnace Tank & Pipe Sizing.",
+    "btu": 120000,
+    "gal_hr": 1.31,
+    "csst": "3/4-Inch CSST",
+    "days": 18.2,
+    "date": "2026-11-13"
+  },
+  {
+    "setup_name": "NFPA 54 Low-Pressure (11\" WC) vs 2-PSI Propane Regulator",
+    "slug": "nfpa-54-low-pressure-11-wc-vs-2-psi-propane-regulator-vaporization-pipe-calculator",
+    "title": "NFPA 54 Low-Pressure (11\" WC) vs 2-PSI Propane Regulator BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (380,000 BTU/hr @ 0°F), fuel burn (2.4 gal/hr), 400.0-gal runtime (19.8 days), and NFPA 54 3/4-Inch CSST + 2-PSI Reg sizing for NFPA 54 Low-Pressure (11\" WC) vs 2-PSI Propane Regulator.",
+    "btu": 220000,
+    "gal_hr": 2.4,
+    "csst": "3/4-Inch CSST",
+    "days": 19.8,
+    "date": "2026-11-13"
   }
 ]
