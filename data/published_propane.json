@@ -328,5 +328,38 @@
     "csst": "3/4-Inch CSST",
     "days": 19.8,
     "date": "2026-11-13"
+  },
+  {
+    "setup_name": "Grill",
+    "slug": "grill-vaporization-pipe-calculator",
+    "title": "Grill BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.82 gal/hr), 96.0-gal runtime (13.9 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for Grill.",
+    "btu": 75000,
+    "gal_hr": 0.82,
+    "csst": "3/4-Inch CSST",
+    "days": 13.9,
+    "date": "2026-11-13"
+  },
+  {
+    "setup_name": "Whole House Generator",
+    "slug": "whole-house-generator-vaporization-pipe-calculator",
+    "title": "Whole House Generator BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.82 gal/hr), 96.0-gal runtime (13.9 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for Whole House Generator.",
+    "btu": 75000,
+    "gal_hr": 0.82,
+    "csst": "3/4-Inch CSST",
+    "days": 13.9,
+    "date": "2026-11-13"
+  },
+  {
+    "setup_name": "House",
+    "slug": "house-vaporization-pipe-calculator",
+    "title": "House BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.82 gal/hr), 96.0-gal runtime (13.9 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for House.",
+    "btu": 75000,
+    "gal_hr": 0.82,
+    "csst": "3/4-Inch CSST",
+    "days": 13.9,
+    "date": "2026-11-13"
   }
 ]
