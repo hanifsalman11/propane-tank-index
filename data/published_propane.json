@@ -427,5 +427,38 @@
     "csst": "3/4-Inch CSST",
     "days": 13.9,
     "date": "2026-11-14"
+  },
+  {
+    "setup_name": "Weed Torch",
+    "slug": "weed-torch-vaporization-pipe-calculator",
+    "title": "Weed Torch BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.82 gal/hr), 96.0-gal runtime (13.9 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for Weed Torch.",
+    "btu": 75000,
+    "gal_hr": 0.82,
+    "csst": "3/4-Inch CSST",
+    "days": 13.9,
+    "date": "2026-11-14"
+  },
+  {
+    "setup_name": "Stove",
+    "slug": "stove-vaporization-pipe-calculator",
+    "title": "Stove BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.82 gal/hr), 96.0-gal runtime (13.9 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for Stove.",
+    "btu": 75000,
+    "gal_hr": 0.82,
+    "csst": "3/4-Inch CSST",
+    "days": 13.9,
+    "date": "2026-11-14"
+  },
+  {
+    "setup_name": "Tankless Water Heater",
+    "slug": "tankless-water-heater-vaporization-pipe-calculator",
+    "title": "Tankless Water Heater BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.82 gal/hr), 96.0-gal runtime (13.9 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for Tankless Water Heater.",
+    "btu": 75000,
+    "gal_hr": 0.82,
+    "csst": "3/4-Inch CSST",
+    "days": 13.9,
+    "date": "2026-11-14"
   }
 ]
