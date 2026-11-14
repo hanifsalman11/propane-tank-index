@@ -361,5 +361,38 @@
     "csst": "3/4-Inch CSST",
     "days": 13.9,
     "date": "2026-11-13"
+  },
+  {
+    "setup_name": "Blackstone",
+    "slug": "blackstone-vaporization-pipe-calculator",
+    "title": "Blackstone BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.82 gal/hr), 96.0-gal runtime (13.9 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for Blackstone.",
+    "btu": 75000,
+    "gal_hr": 0.82,
+    "csst": "3/4-Inch CSST",
+    "days": 13.9,
+    "date": "2026-11-14"
+  },
+  {
+    "setup_name": "Generator",
+    "slug": "generator-vaporization-pipe-calculator",
+    "title": "Generator BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.82 gal/hr), 96.0-gal runtime (13.9 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for Generator.",
+    "btu": 75000,
+    "gal_hr": 0.82,
+    "csst": "3/4-Inch CSST",
+    "days": 13.9,
+    "date": "2026-11-14"
+  },
+  {
+    "setup_name": "Blackstone 22'' Griddle",
+    "slug": "blackstone-22-griddle-vaporization-pipe-calculator",
+    "title": "Blackstone 22'' Griddle BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.82 gal/hr), 96.0-gal runtime (13.9 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for Blackstone 22'' Griddle.",
+    "btu": 75000,
+    "gal_hr": 0.82,
+    "csst": "3/4-Inch CSST",
+    "days": 13.9,
+    "date": "2026-11-14"
   }
 ]
