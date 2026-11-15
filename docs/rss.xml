@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/propane-tank-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Mr Heater Big Maxx 80 000 Btu BTU Vaporization, CSST Pipe & Runtime Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/propane-tank-index/mr-heater-big-maxx-80-000-btu-vaporization-pipe-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/propane-tank-index/mr-heater-big-maxx-80-000-btu-vaporization-pipe-calculator.html</guid>
+      <description>Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.82 gal/hr), 96.0-gal runtime (13.9 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for Mr Heater Big Maxx 80 000 Btu.</description>
+    </item>
+    <item>
+      <title>Gas Range BTU Vaporization, CSST Pipe & Runtime Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/propane-tank-index/gas-range-vaporization-pipe-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/propane-tank-index/gas-range-vaporization-pipe-calculator.html</guid>
+      <description>Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.82 gal/hr), 96.0-gal runtime (13.9 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for Gas Range.</description>
+    </item>
+    <item>
+      <title>24Kw Generac Generator BTU Vaporization, CSST Pipe & Runtime Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/propane-tank-index/24kw-generac-generator-vaporization-pipe-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/propane-tank-index/24kw-generac-generator-vaporization-pipe-calculator.html</guid>
+      <description>Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.82 gal/hr), 96.0-gal runtime (13.9 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for 24Kw Generac Generator.</description>
+    </item>
+    <item>
       <title>26Kw Generator BTU Vaporization, CSST Pipe & Runtime Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/propane-tank-index/26kw-generator-vaporization-pipe-calculator.html</link>
       <guid>https://hanifsalman11.github.io/propane-tank-index/26kw-generator-vaporization-pipe-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/propane-tank-index/cavagna-52-a-490-two-stage-auto-changeover-lp-regulator-vaporization-pipe-calculator.html</link>
       <guid>https://hanifsalman11.github.io/propane-tank-index/cavagna-52-a-490-two-stage-auto-changeover-lp-regulator-vaporization-pipe-calculator.html</guid>
       <description>Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (1.75 gal/hr), 96.0-gal runtime (6.5 days), and NFPA 54 1/2-Inch or 3/4" CSST sizing for Cavagna 52-A-490 Two-Stage & Auto-Changeover LP Regulator.</description>
-    </item>
-    <item>
-      <title>Emerson Fisher R622 / R632 Two-Stage Propane Regulator BTU Vaporization, CSST Pipe & Runtime Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/propane-tank-index/emerson-fisher-r622-r632-two-stage-propane-regulator-vaporization-pipe-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/propane-tank-index/emerson-fisher-r622-r632-two-stage-propane-regulator-vaporization-pipe-calculator.html</guid>
-      <description>Calculate exact winter propane vaporization (215,000 BTU/hr @ 0°F), fuel burn (2.73 gal/hr), 200.0-gal runtime (8.7 days), and NFPA 54 3/4-Inch NPT / CSST sizing for Emerson Fisher R622 / R632 Two-Stage Propane Regulator.</description>
-    </item>
-    <item>
-      <title>Raypak 266,000 & 399,000 BTU Propane Pool/Spa Heater BTU Vaporization, CSST Pipe & Runtime Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/propane-tank-index/raypak-266000-399000-btu-propane-poolspa-heater-vaporization-pipe-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/propane-tank-index/raypak-266000-399000-btu-propane-poolspa-heater-vaporization-pipe-calculator.html</guid>
-      <description>Calculate exact winter propane vaporization (380,000 BTU/hr @ 0°F), fuel burn (3.64 gal/hr), 400.0-gal runtime (13.1 days), and NFPA 54 1-Inch CSST / 2-Stage Reg sizing for Raypak 266,000 & 399,000 BTU Propane Pool/Spa Heater.</description>
-    </item>
-    <item>
-      <title>Hayward Universal H-Series 250,000 BTU LP Pool Heater BTU Vaporization, CSST Pipe & Runtime Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/propane-tank-index/hayward-universal-h-series-250000-btu-lp-pool-heater-vaporization-pipe-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/propane-tank-index/hayward-universal-h-series-250000-btu-lp-pool-heater-vaporization-pipe-calculator.html</guid>
-      <description>Calculate exact winter propane vaporization (215,000 BTU/hr @ 0°F), fuel burn (2.73 gal/hr), 200.0-gal runtime (8.7 days), and NFPA 54 3/4-Inch or 1" CSST Line sizing for Hayward Universal H-Series 250,000 BTU LP Pool Heater.</description>
     </item>
   </channel>
 </rss>
