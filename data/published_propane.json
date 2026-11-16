@@ -526,5 +526,38 @@
     "csst": "3/4-Inch CSST",
     "days": 13.9,
     "date": "2026-11-15"
+  },
+  {
+    "setup_name": "Mr Heater Big Maxx 50 000",
+    "slug": "mr-heater-big-maxx-50-000-vaporization-pipe-calculator",
+    "title": "Mr Heater Big Maxx 50 000 BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.82 gal/hr), 96.0-gal runtime (13.9 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for Mr Heater Big Maxx 50 000.",
+    "btu": 75000,
+    "gal_hr": 0.82,
+    "csst": "3/4-Inch CSST",
+    "days": 13.9,
+    "date": "2026-11-16"
+  },
+  {
+    "setup_name": "Mr Heater Big Maxx 50000 Btu",
+    "slug": "mr-heater-big-maxx-50000-btu-vaporization-pipe-calculator",
+    "title": "Mr Heater Big Maxx 50000 Btu BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.55 gal/hr), 96.0-gal runtime (20.8 days), and NFPA 54 1/2-Inch CSST sizing for Mr Heater Big Maxx 50000 Btu.",
+    "btu": 50000,
+    "gal_hr": 0.55,
+    "csst": "1/2-Inch CSST",
+    "days": 20.8,
+    "date": "2026-11-16"
+  },
+  {
+    "setup_name": "Mr Heater Big Maxx Installation",
+    "slug": "mr-heater-big-maxx-installation-vaporization-pipe-calculator",
+    "title": "Mr Heater Big Maxx Installation BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.82 gal/hr), 96.0-gal runtime (13.9 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for Mr Heater Big Maxx Installation.",
+    "btu": 75000,
+    "gal_hr": 0.82,
+    "csst": "3/4-Inch CSST",
+    "days": 13.9,
+    "date": "2026-11-16"
   }
 ]
