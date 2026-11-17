@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/propane-tank-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>45,000 BTU Load on 100-Lb Tank (23.6 Gal) (25 Ft Gas Run) BTU Vaporization, CSST Pipe & Runtime Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/propane-tank-index/45000-btu-load-on-100-lb-tank-236-gal-25-ft-gas-run-vaporization-pipe-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/propane-tank-index/45000-btu-load-on-100-lb-tank-236-gal-25-ft-gas-run-vaporization-pipe-calculator.html</guid>
+      <description>Calculate exact winter propane vaporization (39,000 BTU/hr @ 0°F), fuel burn (0.49 gal/hr), 23.6-gal runtime (5.7 days), and NFPA 54 1/2-Inch CSST sizing for 45,000 BTU Load on 100-Lb Tank (23.6 Gal) (25 Ft Gas Run).</description>
+    </item>
+    <item>
+      <title>Propane Tank Vaporization Rate BTU Vaporization, CSST Pipe & Runtime Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/propane-tank-index/propane-tank-vaporization-rate-vaporization-pipe-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/propane-tank-index/propane-tank-vaporization-rate-vaporization-pipe-calculator.html</guid>
+      <description>Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.82 gal/hr), 96.0-gal runtime (13.9 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for Propane Tank Vaporization Rate.</description>
+    </item>
+    <item>
+      <title>20 Lb Propane Tank Vaporization Rate BTU Vaporization, CSST Pipe & Runtime Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/propane-tank-index/20-lb-propane-tank-vaporization-rate-vaporization-pipe-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/propane-tank-index/20-lb-propane-tank-vaporization-rate-vaporization-pipe-calculator.html</guid>
+      <description>Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.82 gal/hr), 96.0-gal runtime (13.9 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for 20 Lb Propane Tank Vaporization Rate.</description>
+    </item>
+    <item>
       <title>Propane Vaporization Rate BTU Vaporization, CSST Pipe & Runtime Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/propane-tank-index/propane-vaporization-rate-vaporization-pipe-calculator.html</link>
       <guid>https://hanifsalman11.github.io/propane-tank-index/propane-vaporization-rate-vaporization-pipe-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/propane-tank-index/grill-vaporization-pipe-calculator.html</link>
       <guid>https://hanifsalman11.github.io/propane-tank-index/grill-vaporization-pipe-calculator.html</guid>
       <description>Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.82 gal/hr), 96.0-gal runtime (13.9 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for Grill.</description>
-    </item>
-    <item>
-      <title>NFPA 54 Low-Pressure (11" WC) vs 2-PSI Propane Regulator BTU Vaporization, CSST Pipe & Runtime Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/propane-tank-index/nfpa-54-low-pressure-11-wc-vs-2-psi-propane-regulator-vaporization-pipe-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/propane-tank-index/nfpa-54-low-pressure-11-wc-vs-2-psi-propane-regulator-vaporization-pipe-calculator.html</guid>
-      <description>Calculate exact winter propane vaporization (380,000 BTU/hr @ 0°F), fuel burn (2.4 gal/hr), 400.0-gal runtime (19.8 days), and NFPA 54 3/4-Inch CSST + 2-PSI Reg sizing for NFPA 54 Low-Pressure (11" WC) vs 2-PSI Propane Regulator.</description>
-    </item>
-    <item>
-      <title>120,000 BTU Whole-House Propane Furnace Tank & Pipe Sizing BTU Vaporization, CSST Pipe & Runtime Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/propane-tank-index/120000-btu-whole-house-propane-furnace-tank-pipe-sizing-vaporization-pipe-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/propane-tank-index/120000-btu-whole-house-propane-furnace-tank-pipe-sizing-vaporization-pipe-calculator.html</guid>
-      <description>Calculate exact winter propane vaporization (215,000 BTU/hr @ 0°F), fuel burn (1.31 gal/hr), 200.0-gal runtime (18.2 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for 120,000 BTU Whole-House Propane Furnace Tank & Pipe Sizing.</description>
-    </item>
-    <item>
-      <title>80,000 BTU Overhead Infrared Propane Tube Heater (Garage) BTU Vaporization, CSST Pipe & Runtime Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/propane-tank-index/80000-btu-overhead-infrared-propane-tube-heater-garage-vaporization-pipe-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/propane-tank-index/80000-btu-overhead-infrared-propane-tube-heater-garage-vaporization-pipe-calculator.html</guid>
-      <description>Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.87 gal/hr), 96.0-gal runtime (13.1 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for 80,000 BTU Overhead Infrared Propane Tube Heater (Garage).</description>
     </item>
   </channel>
 </rss>
