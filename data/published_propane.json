@@ -823,5 +823,38 @@
     "csst": "3/4-Inch CSST",
     "days": 97.2,
     "date": "2026-11-25"
+  },
+  {
+    "setup_name": "Fire Pit Table",
+    "slug": "fire-pit-table-vaporization-pipe-calculator",
+    "title": "Fire Pit Table BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.82 gal/hr), 96.0-gal runtime (13.9 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for Fire Pit Table.",
+    "btu": 75000,
+    "gal_hr": 0.82,
+    "csst": "3/4-Inch CSST",
+    "days": 13.9,
+    "date": "2026-11-25"
+  },
+  {
+    "setup_name": "Mr Heater Big Maxx Horizontal Vent Kit",
+    "slug": "mr-heater-big-maxx-horizontal-vent-kit-vaporization-pipe-calculator",
+    "title": "Mr Heater Big Maxx Horizontal Vent Kit BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.82 gal/hr), 96.0-gal runtime (13.9 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for Mr Heater Big Maxx Horizontal Vent Kit.",
+    "btu": 75000,
+    "gal_hr": 0.82,
+    "csst": "3/4-Inch CSST",
+    "days": 13.9,
+    "date": "2026-11-25"
+  },
+  {
+    "setup_name": "Mr Heater Big Maxx Flame Sensor",
+    "slug": "mr-heater-big-maxx-flame-sensor-vaporization-pipe-calculator",
+    "title": "Mr Heater Big Maxx Flame Sensor BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.82 gal/hr), 96.0-gal runtime (13.9 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for Mr Heater Big Maxx Flame Sensor.",
+    "btu": 75000,
+    "gal_hr": 0.82,
+    "csst": "3/4-Inch CSST",
+    "days": 13.9,
+    "date": "2026-11-25"
   }
 ]

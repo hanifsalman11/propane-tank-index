@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/propane-tank-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Mr Heater Big Maxx Flame Sensor BTU Vaporization, CSST Pipe & Runtime Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/propane-tank-index/mr-heater-big-maxx-flame-sensor-vaporization-pipe-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/propane-tank-index/mr-heater-big-maxx-flame-sensor-vaporization-pipe-calculator.html</guid>
+      <description>Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.82 gal/hr), 96.0-gal runtime (13.9 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for Mr Heater Big Maxx Flame Sensor.</description>
+    </item>
+    <item>
+      <title>Mr Heater Big Maxx Horizontal Vent Kit BTU Vaporization, CSST Pipe & Runtime Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/propane-tank-index/mr-heater-big-maxx-horizontal-vent-kit-vaporization-pipe-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/propane-tank-index/mr-heater-big-maxx-horizontal-vent-kit-vaporization-pipe-calculator.html</guid>
+      <description>Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.82 gal/hr), 96.0-gal runtime (13.9 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for Mr Heater Big Maxx Horizontal Vent Kit.</description>
+    </item>
+    <item>
+      <title>Fire Pit Table BTU Vaporization, CSST Pipe & Runtime Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/propane-tank-index/fire-pit-table-vaporization-pipe-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/propane-tank-index/fire-pit-table-vaporization-pipe-calculator.html</guid>
+      <description>Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.82 gal/hr), 96.0-gal runtime (13.9 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for Fire Pit Table.</description>
+    </item>
+    <item>
       <title>45,000 BTU Load on 500-Gallon Tank (400 Gal) (100 Ft Gas Run) BTU Vaporization, CSST Pipe & Runtime Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/propane-tank-index/45000-btu-load-on-500-gallon-tank-400-gal-100-ft-gas-run-vaporization-pipe-calculator.html</link>
       <guid>https://hanifsalman11.github.io/propane-tank-index/45000-btu-load-on-500-gallon-tank-400-gal-100-ft-gas-run-vaporization-pipe-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/propane-tank-index/mr-heater-big-maxx-50-000-vaporization-pipe-calculator.html</link>
       <guid>https://hanifsalman11.github.io/propane-tank-index/mr-heater-big-maxx-50-000-vaporization-pipe-calculator.html</guid>
       <description>Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.82 gal/hr), 96.0-gal runtime (13.9 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for Mr Heater Big Maxx 50 000.</description>
-    </item>
-    <item>
-      <title>Mr Heater Big Maxx 80 000 Btu BTU Vaporization, CSST Pipe & Runtime Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/propane-tank-index/mr-heater-big-maxx-80-000-btu-vaporization-pipe-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/propane-tank-index/mr-heater-big-maxx-80-000-btu-vaporization-pipe-calculator.html</guid>
-      <description>Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.82 gal/hr), 96.0-gal runtime (13.9 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for Mr Heater Big Maxx 80 000 Btu.</description>
-    </item>
-    <item>
-      <title>Gas Range BTU Vaporization, CSST Pipe & Runtime Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/propane-tank-index/gas-range-vaporization-pipe-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/propane-tank-index/gas-range-vaporization-pipe-calculator.html</guid>
-      <description>Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.82 gal/hr), 96.0-gal runtime (13.9 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for Gas Range.</description>
-    </item>
-    <item>
-      <title>24Kw Generac Generator BTU Vaporization, CSST Pipe & Runtime Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/propane-tank-index/24kw-generac-generator-vaporization-pipe-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/propane-tank-index/24kw-generac-generator-vaporization-pipe-calculator.html</guid>
-      <description>Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.82 gal/hr), 96.0-gal runtime (13.9 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for 24Kw Generac Generator.</description>
     </item>
   </channel>
 </rss>
