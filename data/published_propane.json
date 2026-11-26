@@ -856,5 +856,38 @@
     "csst": "3/4-Inch CSST",
     "days": 13.9,
     "date": "2026-11-25"
+  },
+  {
+    "setup_name": "Ninja Fireside 360",
+    "slug": "ninja-fireside-360-vaporization-pipe-calculator",
+    "title": "Ninja Fireside 360 BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.82 gal/hr), 96.0-gal runtime (13.9 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for Ninja Fireside 360.",
+    "btu": 75000,
+    "gal_hr": 0.82,
+    "csst": "3/4-Inch CSST",
+    "days": 13.9,
+    "date": "2026-11-26"
+  },
+  {
+    "setup_name": "Fireplace",
+    "slug": "fireplace-vaporization-pipe-calculator",
+    "title": "Fireplace BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.82 gal/hr), 96.0-gal runtime (13.9 days), and NFPA 54 3/4-Inch CSST Gas Line sizing for Fireplace.",
+    "btu": 75000,
+    "gal_hr": 0.82,
+    "csst": "3/4-Inch CSST",
+    "days": 13.9,
+    "date": "2026-11-26"
+  },
+  {
+    "setup_name": "60,000 BTU Load on 120-Gallon Tank (96 Gal) (25 Ft Gas Run)",
+    "slug": "60000-btu-load-on-120-gallon-tank-96-gal-25-ft-gas-run-vaporization-pipe-calculator",
+    "title": "60,000 BTU Load on 120-Gallon Tank (96 Gal) (25 Ft Gas Run) BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (92,000 BTU/hr @ 0°F), fuel burn (0.66 gal/hr), 96.0-gal runtime (17.3 days), and NFPA 54 3/4-Inch CSST sizing for 60,000 BTU Load on 120-Gallon Tank (96 Gal) (25 Ft Gas Run).",
+    "btu": 60000,
+    "gal_hr": 0.66,
+    "csst": "3/4-Inch CSST",
+    "days": 17.3,
+    "date": "2026-11-26"
   }
 ]
