@@ -922,5 +922,16 @@
     "csst": "3/4-Inch CSST",
     "days": 17.3,
     "date": "2026-11-27"
+  },
+  {
+    "setup_name": "60,000 BTU Load on 250-Gallon Tank (200 Gal) (50 Ft Gas Run)",
+    "slug": "60000-btu-load-on-250-gallon-tank-200-gal-50-ft-gas-run-vaporization-pipe-calculator",
+    "title": "60,000 BTU Load on 250-Gallon Tank (200 Gal) (50 Ft Gas Run) BTU Vaporization, CSST Pipe & Runtime Calculator (2026)",
+    "description": "Calculate exact winter propane vaporization (215,000 BTU/hr @ 0°F), fuel burn (0.66 gal/hr), 200.0-gal runtime (36.1 days), and NFPA 54 3/4-Inch CSST sizing for 60,000 BTU Load on 250-Gallon Tank (200 Gal) (50 Ft Gas Run).",
+    "btu": 60000,
+    "gal_hr": 0.66,
+    "csst": "3/4-Inch CSST",
+    "days": 36.1,
+    "date": "2026-11-28"
   }
 ]
